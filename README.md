@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arupay11374@gmail.com**
 
-- ⚡ Fun fact **I placed 3rd in the NYS scrabble competition in middle school.**
+- ⚡ Fun fact **I placed 3rd in the NYS scrabble competition in 7th grade.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
