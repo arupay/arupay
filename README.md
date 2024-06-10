@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Augusto</h1>
+<h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">NYC Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arupay&label=Profile%20views&color=0e75b6&style=flat" alt="arupay" /> </p>
